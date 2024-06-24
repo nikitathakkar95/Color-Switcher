@@ -1,0 +1,30 @@
+h1 {
+    color: #6203e0;
+    text-align: center;
+
+}
+.button{
+    height: 100px;
+    width: 150px;
+    display: inline-block;
+    justify-content: space-between;
+    border: 2px solid black;
+    cursor: pointer;
+    position: relative;
+    padding: 15px;
+    margin: 10px;
+}
+#grey{
+    background-color: gray;
+}
+#white{
+    background-color: white;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+
+
